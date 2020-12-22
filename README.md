@@ -128,7 +128,7 @@ A model for any container HTML elements, etching `element`.
 
 #### element
 
-A model that represent an HTML element, etching [`dom.element`](../dom#element).
+A model that represent an HTML element, etching [`dom.element`](https://github.com/etchedjs/dom#element).
 
 
 ### Methods
@@ -146,17 +146,17 @@ It can be used to create some autonomous custom elements.
 
 #### fill
 
-See [`dom.fill`](../dom#fill)
+See [`dom.fill`](https://github.com/etchedjs/dom#fill)
 
 
 #### fragment
 
-See [`dom.fragment`](../dom#fragment)
+See [`dom.fragment`](https://github.com/etchedjs/dom#fragment)
 
 
 #### serialize
 
-See [`dom.serialize`](../dom#serialize)
+See [`dom.serialize`](https://github.com/etchedjs/dom#serialize)
 
 Additionally, if the `fragment.firstElementChild` is an `<html>` element, it prefixes the content by a `<!doctype html>`.
 
