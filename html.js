@@ -779,6 +779,7 @@ export default model(((elements = {}) => {
   elements.input = declare(
     closed,
     'input',
+    attributes.name,
     attributes.type
   )
 
