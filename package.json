@@ -1,6 +1,6 @@
 {
   "name": "@etchedjs/html",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A utility to write some HTML elements, based on @etchedjs/dom.",
   "main": "html.js",
   "type": "module",
@@ -25,7 +25,7 @@
     "eslint-plugin-promise": "^4.2.1"
   },
   "peerDependencies": {
-    "@etchedjs/etched": "8.0.0",
-    "@etchedjs/dom": "1.0.3"
+    "@etchedjs/etched": "8.0.1",
+    "@etchedjs/dom": "1.0.5"
   }
 }
