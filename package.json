@@ -1,6 +1,6 @@
 {
   "name": "@etchedjs/html",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "A utility to write some HTML elements, based on @etchedjs/dom.",
   "main": "html.js",
   "type": "module",
@@ -18,14 +18,10 @@
   },
   "homepage": "https://github.com/etchedjs/html#readme",
   "devDependencies": {
-    "eslint": "^7.14.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint": "^7.27.0"
   },
   "peerDependencies": {
-    "@etchedjs/dom": "^1.0.17",
-    "@etchedjs/etched": "^9.0.2"
+    "@etchedjs/dom": "^1.0.19",
+    "@etchedjs/etched": "^9.1.1"
   }
 }
